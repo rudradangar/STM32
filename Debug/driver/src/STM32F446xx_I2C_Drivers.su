@@ -1,0 +1,5 @@
+../driver/src/STM32F446xx_I2C_Drivers.c:13:6:I2C_PeriClockControl	16	static
+../driver/src/STM32F446xx_I2C_Drivers.c:65:6:I2C_DeInit	16	static
+../driver/src/STM32F446xx_I2C_Drivers.c:89:6:I2C_IRQInterruptConfig	16	static
+../driver/src/STM32F446xx_I2C_Drivers.c:134:6:I2C_IRQPriorityConfig	24	static
+../driver/src/STM32F446xx_I2C_Drivers.c:153:6:I2C_PeripheralControl	16	static
